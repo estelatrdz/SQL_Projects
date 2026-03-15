@@ -25,5 +25,5 @@ Agregaciones, filtros complejos, CTEs y funciones de ventana aplicadas a casos d
 
 ---
 
-Explora los scripts en la carpeta [`scripts_sql`](https://github.com/estelatrdz/estelatr/tree/main/Scripts%20MySQL)
+Explora los scripts en la carpeta [`scripts_sql`](https://github.com/estelatrdz/SQL_Projects)
 
